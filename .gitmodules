@@ -1,0 +1,3 @@
+[submodule "third-party/tools-stuff"]
+	path = third-party/tools-stuff
+	url = https://github.com/avcd-bsuir/tools-stuff
